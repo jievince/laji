@@ -6,941 +6,1129 @@
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes class="node" mode="static">
       <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="betweenness" type="double" />
     </attributes>
     <nodes>
       <node id="-4364237027732478972" label="-4364237027732478972">
         <attvalues>
           <attvalue for="0" value="Arya-Stark" />
+          <attvalue for="1" value="0.01749528947092994" />
         </attvalues>
       </node>
       <node id="-4973959390558533367" label="-4973959390558533367">
         <attvalues>
           <attvalue for="0" value="Gendry" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7025436182975816947" label="-7025436182975816947">
         <attvalues>
           <attvalue for="0" value="Hallis-Mollen" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="8249703968876499989" label="8249703968876499989">
         <attvalues>
           <attvalue for="0" value="Raymun-Darry" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-9085767779232784107" label="-9085767779232784107">
         <attvalues>
           <attvalue for="0" value="Hobb" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="7505218728385384214" label="7505218728385384214">
         <attvalues>
           <attvalue for="0" value="Randyll-Tarly" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="5114251854412197144" label="5114251854412197144">
         <attvalues>
           <attvalue for="0" value="Viserys-Targaryen" />
+          <attvalue for="1" value="0.002857503691485831" />
         </attvalues>
       </node>
       <node id="-2958304360028784612" label="-2958304360028784612">
         <attvalues>
           <attvalue for="0" value="Jonos-Bracken" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-4359919586974142177" label="-4359919586974142177">
         <attvalues>
           <attvalue for="0" value="Lancel-Lannister" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="7195357273749773604" label="7195357273749773604">
         <attvalues>
           <attvalue for="0" value="Robb-Stark" />
+          <attvalue for="1" value="0.0729839962966476" />
         </attvalues>
       </node>
       <node id="1075531505424338989" label="1075531505424338989">
         <attvalues>
           <attvalue for="0" value="Marq-Piper" />
+          <attvalue for="1" value="0.006236943676299803" />
         </attvalues>
       </node>
       <node id="-3670573862518875597" label="-3670573862518875597">
         <attvalues>
           <attvalue for="0" value="Addam-Marbrand" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="3931316780000927284" label="3931316780000927284">
         <attvalues>
           <attvalue for="0" value="Robert-Arryn" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="482603504180653879" label="482603504180653879">
         <attvalues>
           <attvalue for="0" value="Irri" />
+          <attvalue for="1" value="9.590235396687009e-05" />
         </attvalues>
       </node>
       <node id="7181995877190281794" label="7181995877190281794">
         <attvalues>
           <attvalue for="0" value="Jommo" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="1787258805162148944" label="1787258805162148944">
         <attvalues>
           <attvalue for="0" value="Eddard-Stark" />
+          <attvalue for="1" value="0.2696038913836117" />
         </attvalues>
       </node>
       <node id="-558158798715221422" label="-558158798715221422">
         <attvalues>
           <attvalue for="0" value="Danwell-Frey" />
+          <attvalue for="1" value="0.02138913106655042" />
         </attvalues>
       </node>
       <node id="-2434779847791595692" label="-2434779847791595692">
         <attvalues>
           <attvalue for="0" value="Mordane" />
+          <attvalue for="1" value="0.0010561655570225136" />
         </attvalues>
       </node>
       <node id="8409318129262644314" label="8409318129262644314">
         <attvalues>
           <attvalue for="0" value="Clydas" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-1738391870688186527" label="-1738391870688186527">
         <attvalues>
           <attvalue for="0" value="Karyl-Vance" />
+          <attvalue for="1" value="0.01075268817204301" />
         </attvalues>
       </node>
       <node id="6902668443292429674" label="6902668443292429674">
         <attvalues>
           <attvalue for="0" value="Haggo" />
+          <attvalue for="1" value="6.780974522910006e-05" />
         </attvalues>
       </node>
       <node id="95861621849685359" label="95861621849685359">
         <attvalues>
           <attvalue for="0" value="Mya-Stone" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="2025059960255100299" label="2025059960255100299">
         <attvalues>
           <attvalue for="0" value="Porther" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-1967336888960310122" label="-1967336888960310122">
         <attvalues>
           <attvalue for="0" value="Colemon" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="5894253429758865049" label="5894253429758865049">
         <attvalues>
           <attvalue for="0" value="Ilyn-Payne" />
+          <attvalue for="1" value="0.00031995751461824873" />
         </attvalues>
       </node>
       <node id="-1356662602606843742" label="-1356662602606843742">
         <attvalues>
           <attvalue for="0" value="Pycelle" />
+          <attvalue for="1" value="0.00032107063518379343" />
         </attvalues>
       </node>
       <node id="382702656484230079" label="382702656484230079">
         <attvalues>
           <attvalue for="0" value="Gared" />
+          <attvalue for="1" value="0.004328212613689773" />
         </attvalues>
       </node>
       <node id="1306559795724859089" label="1306559795724859089">
         <attvalues>
           <attvalue for="0" value="Jorah-Mormont" />
+          <attvalue for="1" value="0.012611106728154213" />
         </attvalues>
       </node>
       <node id="-96410199981447977" label="-96410199981447977">
         <attvalues>
           <attvalue for="0" value="Cayn" />
+          <attvalue for="1" value="2.179598953792502e-05" />
         </attvalues>
       </node>
       <node id="7160113396884551899" label="7160113396884551899">
         <attvalues>
           <attvalue for="0" value="Chella" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-1651472743734459427" label="-1651472743734459427">
         <attvalues>
           <attvalue for="0" value="Qotho" />
+          <attvalue for="1" value="0.0001162452775356001" />
         </attvalues>
       </node>
       <node id="-4544587858595520537" label="-4544587858595520537">
         <attvalues>
           <attvalue for="0" value="Chiggen" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-4560166546802543127" label="-4560166546802543127">
         <attvalues>
           <attvalue for="0" value="Myrcella-Baratheon" />
+          <attvalue for="1" value="2.8230995972931453e-05" />
         </attvalues>
       </node>
       <node id="-3099337515513070862" label="-3099337515513070862">
         <attvalues>
           <attvalue for="0" value="Paxter-Redwyne" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-8528811397358827782" label="-8528811397358827782">
         <attvalues>
           <attvalue for="0" value="Janos-Slynt" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="324637362081574403" label="324637362081574403">
         <attvalues>
           <attvalue for="0" value="Theon-Greyjoy" />
+          <attvalue for="1" value="0.00980833131274694" />
         </attvalues>
       </node>
       <node id="-442667930682840053" label="-442667930682840053">
         <attvalues>
           <attvalue for="0" value="Balon-Greyjoy" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="1234133693257360688" label="1234133693257360688">
         <attvalues>
           <attvalue for="0" value="Maege-Mormont" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-4192859478222408398" label="-4192859478222408398">
         <attvalues>
           <attvalue for="0" value="Joss" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="5719698511776791368" label="5719698511776791368">
         <attvalues>
           <attvalue for="0" value="Jhiqui" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7102832699724296888" label="-7102832699724296888">
         <attvalues>
           <attvalue for="0" value="Yoren" />
+          <attvalue for="1" value="0.00021138387522088702" />
         </attvalues>
       </node>
       <node id="-1544415286643145388" label="-1544415286643145388">
         <attvalues>
           <attvalue for="0" value="Aerys-II-Targaryen" />
+          <attvalue for="1" value="0.00048173749786653005" />
         </attvalues>
       </node>
       <node id="2276794801400790618" label="2276794801400790618">
         <attvalues>
           <attvalue for="0" value="Rakharo" />
+          <attvalue for="1" value="3.390487261455003e-05" />
         </attvalues>
       </node>
       <node id="6174108547034151003" label="6174108547034151003">
         <attvalues>
           <attvalue for="0" value="Mycah" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-6281003111418328223" label="-6281003111418328223">
         <attvalues>
           <attvalue for="0" value="Fogo" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-663573035341268378" label="-663573035341268378">
         <attvalues>
           <attvalue for="0" value="Matthar" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-6525598036895580818" label="-6525598036895580818">
         <attvalues>
           <attvalue for="0" value="Eroeh" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="421449277576093313" label="421449277576093313">
         <attvalues>
           <attvalue for="0" value="Joseth" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="1246100097508102023" label="1246100097508102023">
         <attvalues>
           <attvalue for="0" value="Heward" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="4258967449886973063" label="4258967449886973063">
         <attvalues>
           <attvalue for="0" value="Jafer-Flowers" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-8597038396992738673" label="-8597038396992738673">
         <attvalues>
           <attvalue for="0" value="Hoster-Tully" />
+          <attvalue for="1" value="0.000390956271849146" />
         </attvalues>
       </node>
       <node id="-944440386698806893" label="-944440386698806893">
         <attvalues>
           <attvalue for="0" value="Shae" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7470383069865040233" label="-7470383069865040233">
         <attvalues>
           <attvalue for="0" value="Catelyn-Stark" />
+          <attvalue for="1" value="0.15139527153476262" />
         </attvalues>
       </node>
       <node id="2475025621924638363" label="2475025621924638363">
         <attvalues>
           <attvalue for="0" value="Jon-Snow" />
+          <attvalue for="1" value="0.1715813589982956" />
         </attvalues>
       </node>
       <node id="-8256903478283752798" label="-8256903478283752798">
         <attvalues>
           <attvalue for="0" value="Beric-Dondarrion" />
+          <attvalue for="1" value="0.010752688172043012" />
         </attvalues>
       </node>
       <node id="6594153862406246583" label="6594153862406246583">
         <attvalues>
           <attvalue for="0" value="Vardis-Egen" />
+          <attvalue for="1" value="0.0011877067734453127" />
         </attvalues>
       </node>
       <node id="7040693264479409338" label="7040693264479409338">
         <attvalues>
           <attvalue for="0" value="Hali" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-8068900859050314053" label="-8068900859050314053">
         <attvalues>
           <attvalue for="0" value="Lysa-Arryn" />
+          <attvalue for="1" value="0.018213231571230133" />
         </attvalues>
       </node>
       <node id="410955874731560648" label="410955874731560648">
         <attvalues>
           <attvalue for="0" value="Mirri-Maz-Duur" />
+          <attvalue for="1" value="4.8435532306500046e-05" />
         </attvalues>
       </node>
       <node id="2079910686634829013" label="2079910686634829013">
         <attvalues>
           <attvalue for="0" value="Cohollo" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-4313941152946208038" label="-4313941152946208038">
         <attvalues>
           <attvalue for="0" value="Grenn" />
+          <attvalue for="1" value="0.0002024605250411702" />
         </attvalues>
       </node>
       <node id="-3562315799584744218" label="-3562315799584744218">
         <attvalues>
           <attvalue for="0" value="Jeor-Mormont" />
+          <attvalue for="1" value="0.028345621007255028" />
         </attvalues>
       </node>
       <node id="4952665251574087143" label="4952665251574087143">
         <attvalues>
           <attvalue for="0" value="Edmure-Tully" />
+          <attvalue for="1" value="0.01963307983379491" />
         </attvalues>
       </node>
       <node id="2869739004063762153" label="2869739004063762153">
         <attvalues>
           <attvalue for="0" value="Hullen" />
+          <attvalue for="1" value="0.00045139703649158593" />
         </attvalues>
       </node>
       <node id="-5387943018925247508" label="-5387943018925247508">
         <attvalues>
           <attvalue for="0" value="Clement-Piper" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-5006942592866815508" label="-5006942592866815508">
         <attvalues>
           <attvalue for="0" value="Morrec" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="394700527622842608" label="394700527622842608">
         <attvalues>
           <attvalue for="0" value="Rast" />
+          <attvalue for="1" value="7.749685169040007e-05" />
         </attvalues>
       </node>
       <node id="5650187385973672433" label="5650187385973672433">
         <attvalues>
           <attvalue for="0" value="Waymar-Royce" />
+          <attvalue for="1" value="0.006708358729333178" />
         </attvalues>
       </node>
       <node id="-5258823456193361654" label="-5258823456193361654">
         <attvalues>
           <attvalue for="0" value="Jaime-Lannister" />
+          <attvalue for="1" value="0.03200955426817227" />
         </attvalues>
       </node>
       <node id="3288841811834678812" label="3288841811834678812">
         <attvalues>
           <attvalue for="0" value="Barristan-Selmy" />
+          <attvalue for="1" value="0.0012358894598099792" />
         </attvalues>
       </node>
       <node id="-7902376892396653539" label="-7902376892396653539">
         <attvalues>
           <attvalue for="0" value="Ogo" />
+          <attvalue for="1" value="0.01075268817204301" />
         </attvalues>
       </node>
       <node id="1197936681626901537" label="1197936681626901537">
         <attvalues>
           <attvalue for="0" value="Arys-Oakheart" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="8182714189427951147" label="8182714189427951147">
         <attvalues>
           <attvalue for="0" value="Gunthor-son-of-Gurn" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="7672881183458764852" label="7672881183458764852">
         <attvalues>
           <attvalue for="0" value="Vayon-Poole" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="128766930358106682" label="128766930358106682">
         <attvalues>
           <attvalue for="0" value="Meryn-Trant" />
+          <attvalue for="1" value="0.0006984119660127081" />
         </attvalues>
       </node>
       <node id="-5496886924764175289" label="-5496886924764175289">
         <attvalues>
           <attvalue for="0" value="Loras-Tyrell" />
+          <attvalue for="1" value="0.02240957716499878" />
         </attvalues>
       </node>
       <node id="1292177750405809737" label="1292177750405809737">
         <attvalues>
           <attvalue for="0" value="Willis-Wode" />
+          <attvalue for="1" value="0.00038763506505441997" />
         </attvalues>
       </node>
       <node id="3759634122579762507" label="3759634122579762507">
         <attvalues>
           <attvalue for="0" value="Bran-Stark" />
+          <attvalue for="1" value="0.05579958811784443" />
         </attvalues>
       </node>
       <node id="7106938268234774352" label="7106938268234774352">
         <attvalues>
           <attvalue for="0" value="Rhaego" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="5559211113602513747" label="5559211113602513747">
         <attvalues>
           <attvalue for="0" value="Hosteen-Frey" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-2400022048186997674" label="-2400022048186997674">
         <attvalues>
           <attvalue for="0" value="Jaremy-Rykker" />
+          <attvalue for="1" value="0.01075268817204301" />
         </attvalues>
       </node>
       <node id="-3841395598943203749" label="-3841395598943203749">
         <attvalues>
           <attvalue for="0" value="Jyck" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-33725552809741724" label="-33725552809741724">
         <attvalues>
           <attvalue for="0" value="Stannis-Baratheon" />
+          <attvalue for="1" value="0.0004430380168891369" />
         </attvalues>
       </node>
       <node id="-234768700846621329" label="-234768700846621329">
         <attvalues>
           <attvalue for="0" value="Alliser-Thorne" />
+          <attvalue for="1" value="0.005026701469957172" />
         </attvalues>
       </node>
       <node id="-2860205856327249754" label="-2860205856327249754">
         <attvalues>
           <attvalue for="0" value="Luwin" />
+          <attvalue for="1" value="0.013182650228125651" />
         </attvalues>
       </node>
       <node id="2942243616974043572" label="2942243616974043572">
         <attvalues>
           <attvalue for="0" value="Marillion" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="2225463798238808757" label="2225463798238808757">
         <attvalues>
           <attvalue for="0" value="Halder" />
+          <attvalue for="1" value="0.00021021021021021022" />
         </attvalues>
       </node>
       <node id="-8325568757862811719" label="-8325568757862811719">
         <attvalues>
           <attvalue for="0" value="Dareon" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="3963835456432692922" label="3963835456432692922">
         <attvalues>
           <attvalue for="0" value="Tomard" />
+          <attvalue for="1" value="0.0002966978204169855" />
         </attvalues>
       </node>
       <node id="-2660944377968843059" label="-2660944377968843059">
         <attvalues>
           <attvalue for="0" value="Lyn-Corbray" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-937004065714649389" label="-937004065714649389">
         <attvalues>
           <attvalue for="0" value="Torrhen-Karstark" />
+          <attvalue for="1" value="0.00027229994971930455" />
         </attvalues>
       </node>
       <node id="-1417129657964892714" label="-1417129657964892714">
         <attvalues>
           <attvalue for="0" value="Desmond" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="5692917356371880152" label="5692917356371880152">
         <attvalues>
           <attvalue for="0" value="Will-(prologue)" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-5120638909181493794" label="-5120638909181493794">
         <attvalues>
           <attvalue for="0" value="Wyl-(guard)" />
+          <attvalue for="1" value="0.001630190169089601" />
         </attvalues>
       </node>
       <node id="-8468870216582192674" label="-8468870216582192674">
         <attvalues>
           <attvalue for="0" value="Walder-Frey" />
+          <attvalue for="1" value="0.03233861846765073" />
         </attvalues>
       </node>
       <node id="-5880511863675164194" label="-5880511863675164194">
         <attvalues>
           <attvalue for="0" value="Gregor-Clegane" />
+          <attvalue for="1" value="0.0029238629552809908" />
         </attvalues>
       </node>
       <node id="8458138115512797162" label="8458138115512797162">
         <attvalues>
           <attvalue for="0" value="Wendel-Manderly" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7143022150380709904" label="-7143022150380709904">
         <attvalues>
           <attvalue for="0" value="Brandon-Stark" />
+          <attvalue for="1" value="0.002080261918971596" />
         </attvalues>
       </node>
       <node id="-3956081646536560399" label="-3956081646536560399">
         <attvalues>
           <attvalue for="0" value="Alyn" />
+          <attvalue for="1" value="0.0003145710264731399" />
         </attvalues>
       </node>
       <node id="-7695683684249877514" label="-7695683684249877514">
         <attvalues>
           <attvalue for="0" value="Lyanna-Stark" />
+          <attvalue for="1" value="3.321293643874289e-05" />
         </attvalues>
       </node>
       <node id="6126670677555220222" label="6126670677555220222">
         <attvalues>
           <attvalue for="0" value="Jon-Umber-(Greatjon)" />
+          <attvalue for="1" value="0.0033242714657788133" />
         </attvalues>
       </node>
       <node id="-878336064242249474" label="-878336064242249474">
         <attvalues>
           <attvalue for="0" value="Shagga" />
+          <attvalue for="1" value="0.02159256030223772" />
         </attvalues>
       </node>
       <node id="1586339801624480767" label="1586339801624480767">
         <attvalues>
           <attvalue for="0" value="Rickard-Karstark" />
+          <attvalue for="1" value="0.009473682089536552" />
         </attvalues>
       </node>
       <node id="-7735090793467260416" label="-7735090793467260416">
         <attvalues>
           <attvalue for="0" value="Nestor-Royce" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-6563543150616001531" label="-6563543150616001531">
         <attvalues>
           <attvalue for="0" value="Boros-Blount" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="6119001492364295435" label="6119001492364295435">
         <attvalues>
           <attvalue for="0" value="Nan" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="6957373057037598475" label="6957373057037598475">
         <attvalues>
           <attvalue for="0" value="Daenerys-Targaryen" />
+          <attvalue for="1" value="0.08627015537511601" />
         </attvalues>
       </node>
       <node id="-5066115932638438371" label="-5066115932638438371">
         <attvalues>
           <attvalue for="0" value="Jon-Arryn" />
+          <attvalue for="1" value="0.012525043642810933" />
         </attvalues>
       </node>
       <node id="4675918056438931485" label="4675918056438931485">
         <attvalues>
           <attvalue for="0" value="Coratt" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-3626911457024731361" label="-3626911457024731361">
         <attvalues>
           <attvalue for="0" value="Rhaegar-Targaryen" />
+          <attvalue for="1" value="0.002820482192068282" />
         </attvalues>
       </node>
       <node id="809520726269172515" label="809520726269172515">
         <attvalues>
           <attvalue for="0" value="Ulf-son-of-Umar" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7578116029924230106" label="-7578116029924230106">
         <attvalues>
           <attvalue for="0" value="Varly" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-3175698437761253841" label="-3175698437761253841">
         <attvalues>
           <attvalue for="0" value="Maegor-I-Targaryen" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-8327824600052433101" label="-8327824600052433101">
         <attvalues>
           <attvalue for="0" value="Harwin" />
+          <attvalue for="1" value="0.00031667113229415553" />
         </attvalues>
       </node>
       <node id="708803798962142010" label="708803798962142010">
         <attvalues>
           <attvalue for="0" value="Tyrion-Lannister" />
+          <attvalue for="1" value="0.1902124972697492" />
         </attvalues>
       </node>
       <node id="8145588279324740155" label="8145588279324740155">
         <attvalues>
           <attvalue for="0" value="Osha" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="8352209505292140605" label="8352209505292140605">
         <attvalues>
           <attvalue for="0" value="Jory-Cassel" />
+          <attvalue for="1" value="0.017524538493636138" />
         </attvalues>
       </node>
       <node id="4451960141482001470" label="4451960141482001470">
         <attvalues>
           <attvalue for="0" value="Conn" />
+          <attvalue for="1" value="0.01075268817204301" />
         </attvalues>
       </node>
       <node id="-7696216516076745916" label="-7696216516076745916">
         <attvalues>
           <attvalue for="0" value="Kurleket" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7873698937166195386" label="-7873698937166195386">
         <attvalues>
           <attvalue for="0" value="Bronn" />
+          <attvalue for="1" value="0.004124576359910306" />
         </attvalues>
       </node>
       <node id="3398716282317623880" label="3398716282317623880">
         <attvalues>
           <attvalue for="0" value="Mace-Tyrell" />
+          <attvalue for="1" value="0.01075268817204301" />
         </attvalues>
       </node>
       <node id="2729613016872485720" label="2729613016872485720">
         <attvalues>
           <attvalue for="0" value="Donnel-Waynwood" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-2980117982059298981" label="-2980117982059298981">
         <attvalues>
           <attvalue for="0" value="Moreo-Tumitis" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-436216029099863971" label="-436216029099863971">
         <attvalues>
           <attvalue for="0" value="Howland-Reed" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-3590350303771201696" label="-3590350303771201696">
         <attvalues>
           <attvalue for="0" value="Hugh" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="7345016539660588385" label="7345016539660588385">
         <attvalues>
           <attvalue for="0" value="Mord" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-9157870729146835866" label="-9157870729146835866">
         <attvalues>
           <attvalue for="0" value="Hodor" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-283255477802389891" label="-283255477802389891">
         <attvalues>
           <attvalue for="0" value="Tregar" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-3430349852474542461" label="-3430349852474542461">
         <attvalues>
           <attvalue for="0" value="Benjen-Stark" />
+          <attvalue for="1" value="0.03293306050027415" />
         </attvalues>
       </node>
       <node id="-443806203897237116" label="-443806203897237116">
         <attvalues>
           <attvalue for="0" value="Tobho-Mott" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-3453268790653579641" label="-3453268790653579641">
         <attvalues>
           <attvalue for="0" value="Chett" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="7919534385030810250" label="7919534385030810250">
         <attvalues>
           <attvalue for="0" value="Roose-Bolton" />
+          <attvalue for="1" value="2.4944299137847526e-05" />
         </attvalues>
       </node>
       <node id="2772406256976048530" label="2772406256976048530">
         <attvalues>
           <attvalue for="0" value="Stiv" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-5455982395787702381" label="-5455982395787702381">
         <attvalues>
           <attvalue for="0" value="Kevan-Lannister" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="8506956018488736915" label="8506956018488736915">
         <attvalues>
           <attvalue for="0" value="Thoros-of-Myr" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-8022774430361720936" label="-8022774430361720936">
         <attvalues>
           <attvalue for="0" value="Eon-Hunter" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="2435834698326343580" label="2435834698326343580">
         <attvalues>
           <attvalue for="0" value="Jhogo" />
+          <attvalue for="1" value="4.359197907585004e-05" />
         </attvalues>
       </node>
       <node id="-8668491989884391266" label="-8668491989884391266">
         <attvalues>
           <attvalue for="0" value="Pypar" />
+          <attvalue for="1" value="7.459071975201007e-05" />
         </attvalues>
       </node>
       <node id="4467054573266135970" label="4467054573266135970">
         <attvalues>
           <attvalue for="0" value="Varys" />
+          <attvalue for="1" value="0.010794552272183802" />
         </attvalues>
       </node>
       <node id="-8322186430771421786" label="-8322186430771421786">
         <attvalues>
           <attvalue for="0" value="Quaro" />
+          <attvalue for="1" value="2.906131938390003e-05" />
         </attvalues>
       </node>
       <node id="-8407251867582377801" label="-8407251867582377801">
         <attvalues>
           <attvalue for="0" value="Brynden-Tully" />
+          <attvalue for="1" value="0.003832343205437259" />
         </attvalues>
       </node>
       <node id="-622601038387293001" label="-622601038387293001">
         <attvalues>
           <attvalue for="0" value="Harys-Swyft" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="3014475934687962810" label="3014475934687962810">
         <attvalues>
           <attvalue for="0" value="Daryn-Hornwood" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-8349292882010993221" label="-8349292882010993221">
         <attvalues>
           <attvalue for="0" value="Gerold-Hightower" />
+          <attvalue for="1" value="0.02144725370531822" />
         </attvalues>
       </node>
       <node id="2852081927213064640" label="2852081927213064640">
         <attvalues>
           <attvalue for="0" value="Othor" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-2722795950142734656" label="-2722795950142734656">
         <attvalues>
           <attvalue for="0" value="Donal-Noye" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-9020312320718462521" label="-9020312320718462521">
         <attvalues>
           <attvalue for="0" value="Samwell-Tarly" />
+          <attvalue for="1" value="0.014449634885820023" />
         </attvalues>
       </node>
       <node id="-69763044041801781" label="-69763044041801781">
         <attvalues>
           <attvalue for="0" value="Jeyne-Poole" />
+          <attvalue for="1" value="6.109796432377077e-05" />
         </attvalues>
       </node>
       <node id="3382313394821192660" label="3382313394821192660">
         <attvalues>
           <attvalue for="0" value="Rickard-Stark" />
+          <attvalue for="1" value="8.86701693153306e-05" />
         </attvalues>
       </node>
       <node id="-6149594491274334506" label="-6149594491274334506">
         <attvalues>
           <attvalue for="0" value="Albett" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-6514357996210450211" label="-6514357996210450211">
         <attvalues>
           <attvalue for="0" value="Aggo" />
+          <attvalue for="1" value="7.265329845975008e-05" />
         </attvalues>
       </node>
       <node id="2865123632776666335" label="2865123632776666335">
         <attvalues>
           <attvalue for="0" value="High-Septon-(fat_one)" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-168024298429945371" label="-168024298429945371">
         <attvalues>
           <attvalue for="0" value="Renly-Baratheon" />
+          <attvalue for="1" value="0.009635188708026638" />
         </attvalues>
       </node>
       <node id="-3744792378531386136" label="-3744792378531386136">
         <attvalues>
           <attvalue for="0" value="Sandor-Clegane" />
+          <attvalue for="1" value="0.00623766684109889" />
         </attvalues>
       </node>
       <node id="-7494758438985027606" label="-7494758438985027606">
         <attvalues>
           <attvalue for="0" value="Todder" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-2004674755568114175" label="-2004674755568114175">
         <attvalues>
           <attvalue for="0" value="Stevron-Frey" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-4242971018835248380" label="-4242971018835248380">
         <attvalues>
           <attvalue for="0" value="Jared-Frey" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="2976751591107576336" label="2976751591107576336">
         <attvalues>
           <attvalue for="0" value="Mance-Rayder" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-976759337769800165" label="-976759337769800165">
         <attvalues>
           <attvalue for="0" value="Illyrio-Mopatis" />
+          <attvalue for="1" value="0.0011992863048539463" />
         </attvalues>
       </node>
       <node id="-7436304737095544515" label="-7436304737095544515">
         <attvalues>
           <attvalue for="0" value="Cersei-Lannister" />
+          <attvalue for="1" value="0.026434677939526086" />
         </attvalues>
       </node>
       <node id="-7212980138493273280" label="-7212980138493273280">
         <attvalues>
           <attvalue for="0" value="Wylla" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-3051572459921930685" label="-3051572459921930685">
         <attvalues>
           <attvalue for="0" value="Dywen" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-1560097451014402740" label="-1560097451014402740">
         <attvalues>
           <attvalue for="0" value="Aegon-I-Targaryen" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="3875258061632623436" label="3875258061632623436">
         <attvalues>
           <attvalue for="0" value="Syrio-Forel" />
+          <attvalue for="1" value="0.00012300558547174547" />
         </attvalues>
       </node>
       <node id="-6065110609198440360" label="-6065110609198440360">
         <attvalues>
           <attvalue for="0" value="Galbart-Glover" />
+          <attvalue for="1" value="0.0008706693487442284" />
         </attvalues>
       </node>
       <node id="-3842550617727156385" label="-3842550617727156385">
         <attvalues>
           <attvalue for="0" value="Oswell-Whent" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-71468275368946080" label="-71468275368946080">
         <attvalues>
           <attvalue for="0" value="Mychel-Redfort" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-7128114115724111775" label="-7128114115724111775">
         <attvalues>
           <attvalue for="0" value="Doreah" />
+          <attvalue for="1" value="1.1624527753560013e-05" />
         </attvalues>
       </node>
       <node id="-509818004100631965" label="-509818004100631965">
         <attvalues>
           <attvalue for="0" value="Bowen-Marsh" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-6826567366020378515" label="-6826567366020378515">
         <attvalues>
           <attvalue for="0" value="Leo-Lefford" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="7060064261559437431" label="7060064261559437431">
         <attvalues>
           <attvalue for="0" value="Dolf" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-6285392006409452405" label="-6285392006409452405">
         <attvalues>
           <attvalue for="0" value="Tommen-Baratheon" />
+          <attvalue for="1" value="0.0005545481847802811" />
         </attvalues>
       </node>
       <node id="-3955834736912167795" label="-3955834736912167795">
         <attvalues>
           <attvalue for="0" value="Rodrik-Cassel" />
+          <attvalue for="1" value="0.00963397409313393" />
         </attvalues>
       </node>
       <node id="2794971077762788241" label="2794971077762788241">
         <attvalues>
           <attvalue for="0" value="Robert-Baratheon" />
+          <attvalue for="1" value="0.21403028397371773" />
         </attvalues>
       </node>
       <node id="1533965315573609366" label="1533965315573609366">
         <attvalues>
           <attvalue for="0" value="Joffrey-Baratheon" />
+          <attvalue for="1" value="0.018949350296839806" />
         </attvalues>
       </node>
       <node id="-2809487583448816485" label="-2809487583448816485">
         <attvalues>
           <attvalue for="0" value="Tytos-Blackwood" />
+          <attvalue for="1" value="0.01075268817204301" />
         </attvalues>
       </node>
       <node id="2065819172540240551" label="2065819172540240551">
         <attvalues>
           <attvalue for="0" value="Rickon-Stark" />
+          <attvalue for="1" value="8.984632696126535e-05" />
         </attvalues>
       </node>
       <node id="1322906332999417271" label="1322906332999417271">
         <attvalues>
           <attvalue for="0" value="Sansa-Stark" />
+          <attvalue for="1" value="0.03714483664326783" />
         </attvalues>
       </node>
       <node id="-693240965107467070" label="-693240965107467070">
         <attvalues>
           <attvalue for="0" value="Drogo" />
+          <attvalue for="1" value="0.06481224290874965" />
         </attvalues>
       </node>
       <node id="345963784343700171" label="345963784343700171">
         <attvalues>
           <attvalue for="0" value="Masha-Heddle" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="-493162669726419250" label="-493162669726419250">
         <attvalues>
           <attvalue for="0" value="Aemon-Targaryen-(Maester-Aemon)" />
+          <attvalue for="1" value="0.010844715683425358" />
         </attvalues>
       </node>
       <node id="7419209181076874201" label="7419209181076874201">
         <attvalues>
           <attvalue for="0" value="Balon-Swann" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="4555491450369480411" label="4555491450369480411">
         <attvalues>
           <attvalue for="0" value="Jacks" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="5614642142500884701" label="5614642142500884701">
         <attvalues>
           <attvalue for="0" value="Petyr-Baelish" />
+          <attvalue for="1" value="0.009436743202985232" />
         </attvalues>
       </node>
       <node id="3360903098985337571" label="3360903098985337571">
         <attvalues>
           <attvalue for="0" value="Tywin-Lannister" />
+          <attvalue for="1" value="0.026190475931508063" />
         </attvalues>
       </node>
       <node id="-4062631696122839325" label="-4062631696122839325">
         <attvalues>
           <attvalue for="0" value="Timett" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
       <node id="128669321791584236" label="128669321791584236">
         <attvalues>
           <attvalue for="0" value="Arthur-Dayne" />
+          <attvalue for="1" value="0.0" />
         </attvalues>
       </node>
     </nodes>
