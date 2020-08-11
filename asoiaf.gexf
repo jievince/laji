@@ -63,7 +63,7 @@
         <attvalues>
           <attvalue for="0" value="Jonos-Bracken" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="3" />
+          <attvalue for="2" value="0" />
         </attvalues>
       </node>
       <node id="-4359919586974142177" label="-4359919586974142177">
@@ -126,7 +126,7 @@
         <attvalues>
           <attvalue for="0" value="Danwell-Frey" />
           <attvalue for="1" value="0.02138913106655042" />
-          <attvalue for="2" value="4" />
+          <attvalue for="2" value="3" />
         </attvalues>
       </node>
       <node id="-2434779847791595692" label="-2434779847791595692">
@@ -147,7 +147,7 @@
         <attvalues>
           <attvalue for="0" value="Karyl-Vance" />
           <attvalue for="1" value="0.01075268817204301" />
-          <attvalue for="2" value="5" />
+          <attvalue for="2" value="0" />
         </attvalues>
       </node>
       <node id="6902668443292429674" label="6902668443292429674">
@@ -245,7 +245,7 @@
         <attvalues>
           <attvalue for="0" value="Paxter-Redwyne" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="6" />
+          <attvalue for="2" value="4" />
         </attvalues>
       </node>
       <node id="-8528811397358827782" label="-8528811397358827782">
@@ -462,7 +462,7 @@
         <attvalues>
           <attvalue for="0" value="Clement-Piper" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="5" />
+          <attvalue for="2" value="0" />
         </attvalues>
       </node>
       <node id="-5006942592866815508" label="-5006942592866815508">
@@ -567,7 +567,7 @@
         <attvalues>
           <attvalue for="0" value="Hosteen-Frey" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="4" />
+          <attvalue for="2" value="3" />
         </attvalues>
       </node>
       <node id="-2400022048186997674" label="-2400022048186997674">
@@ -721,7 +721,7 @@
         <attvalues>
           <attvalue for="0" value="Shagga" />
           <attvalue for="1" value="0.02159256030223772" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="5" />
         </attvalues>
       </node>
       <node id="1586339801624480767" label="1586339801624480767">
@@ -770,7 +770,7 @@
         <attvalues>
           <attvalue for="0" value="Coratt" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="5" />
         </attvalues>
       </node>
       <node id="-3626911457024731361" label="-3626911457024731361">
@@ -784,7 +784,7 @@
         <attvalues>
           <attvalue for="0" value="Ulf-son-of-Umar" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="5" />
         </attvalues>
       </node>
       <node id="-7578116029924230106" label="-7578116029924230106">
@@ -833,7 +833,7 @@
         <attvalues>
           <attvalue for="0" value="Conn" />
           <attvalue for="1" value="0.01075268817204301" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="5" />
         </attvalues>
       </node>
       <node id="-7696216516076745916" label="-7696216516076745916">
@@ -854,7 +854,7 @@
         <attvalues>
           <attvalue for="0" value="Mace-Tyrell" />
           <attvalue for="1" value="0.01075268817204301" />
-          <attvalue for="2" value="6" />
+          <attvalue for="2" value="4" />
         </attvalues>
       </node>
       <node id="2729613016872485720" label="2729613016872485720">
@@ -1015,7 +1015,7 @@
         <attvalues>
           <attvalue for="0" value="Gerold-Hightower" />
           <attvalue for="1" value="0.02144725370531822" />
-          <attvalue for="2" value="8" />
+          <attvalue for="2" value="6" />
         </attvalues>
       </node>
       <node id="2852081927213064640" label="2852081927213064640">
@@ -1106,7 +1106,7 @@
         <attvalues>
           <attvalue for="0" value="Jared-Frey" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="4" />
+          <attvalue for="2" value="3" />
         </attvalues>
       </node>
       <node id="2976751591107576336" label="2976751591107576336">
@@ -1169,7 +1169,7 @@
         <attvalues>
           <attvalue for="0" value="Oswell-Whent" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="8" />
+          <attvalue for="2" value="6" />
         </attvalues>
       </node>
       <node id="-71468275368946080" label="-71468275368946080">
@@ -1204,7 +1204,7 @@
         <attvalues>
           <attvalue for="0" value="Dolf" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="5" />
         </attvalues>
       </node>
       <node id="-6285392006409452405" label="-6285392006409452405">
@@ -1239,7 +1239,7 @@
         <attvalues>
           <attvalue for="0" value="Tytos-Blackwood" />
           <attvalue for="1" value="0.01075268817204301" />
-          <attvalue for="2" value="3" />
+          <attvalue for="2" value="0" />
         </attvalues>
       </node>
       <node id="2065819172540240551" label="2065819172540240551">
@@ -1309,14 +1309,14 @@
         <attvalues>
           <attvalue for="0" value="Timett" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="5" />
         </attvalues>
       </node>
       <node id="128669321791584236" label="128669321791584236">
         <attvalues>
           <attvalue for="0" value="Arthur-Dayne" />
           <attvalue for="1" value="0.0" />
-          <attvalue for="2" value="8" />
+          <attvalue for="2" value="6" />
         </attvalues>
       </node>
     </nodes>
